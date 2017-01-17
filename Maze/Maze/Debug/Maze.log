@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\projects of c++\projects\maze\maze\maze\maze\maze\source.cpp(61): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Maze.vcxproj -> E:\Projects of C++\Projects\Maze\Maze\Maze\Maze\Debug\Maze.exe
+  Maze.vcxproj -> E:\Projects of C++\Projects\Maze\Maze\Maze\Maze\Debug\Maze.pdb (Full PDB)

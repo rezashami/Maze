@@ -27,3 +27,4 @@
 *.exe
 *.out
 *.app
+/Maze/Maze.VC.VC.opendb
